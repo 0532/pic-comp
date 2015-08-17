@@ -1,0 +1,5 @@
+target
+.idea
+logs
+src/test/resources/basecompare
+src/test/resources/tocompare
